@@ -131,7 +131,6 @@ Los materiales de terceros conservan sus respectivas licencias y condiciones de 
 
 Ingeniero en Sistemas Computacionales | Educación Media Superior | Docente
 
-* GitHub: [@antoniobs](https://github.com/antoniobs)
-* LinkedIn: [Mi perfil profesional](https://www.linkedin.com/in/antoniobs-net)
+* [Discord](https://discord.gg/PVJMM4H3FQ)
 
 *Materiales elaborados con fines educativos y de preparación docente.*
