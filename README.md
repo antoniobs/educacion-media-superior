@@ -116,3 +116,22 @@ Los materiales se encuentran sujetos a revisión y mejora continua.
 ## Licencia y uso
 
 La licencia y las condiciones de reutilización se especificarán conforme a los derechos aplicables a cada material. Se procurará identificar las fuentes de los recursos externos y respetar sus respectivas condiciones de uso.
+
+Los materiales originales de este repositorio se publican bajo la licencia [Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0).](https://creativecommons.org/licenses/by-nc/4.0/deed.es)
+
+Se permite compartir y adaptar estos materiales, siempre que se otorgue el crédito correspondiente y no se utilicen con fines comerciales.
+
+Los materiales de terceros conservan sus respectivas licencias y condiciones de uso.
+
+---
+
+## Autor
+
+**Ing. Antonio Bueno**
+
+Ingeniero en Sistemas Computacionales | Educación Media Superior | Docente
+
+* GitHub: [@antoniobs](https://github.com/antoniobs)
+* LinkedIn: [Mi perfil profesional](https://www.linkedin.com/in/antoniobs-net)
+
+*Materiales elaborados con fines educativos y de preparación docente.*
